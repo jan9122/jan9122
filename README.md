@@ -37,6 +37,7 @@
 
 - ✉️ **Email**: janrubiomontes@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/jan-rubio-montes/)
+- 🌐 Portfolio: [https://jan9122.github.io]
 
 ---
 
