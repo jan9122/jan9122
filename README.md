@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Jan Rubio</h1>
-<h3 align="center">Software Engineer & Chief of Software at TecnoCampus MotorSports</h3>
+<h3 align="center">Software Engineer Student & Chief of Software at TecnoCampus MotorSports</h3>
 
 ---
 
-🚀 I'm a **Software Engineer and Computer Engineering student** passionate about embedded systems, vehicle control software, and innovation in motorsport. Currently, I lead the **software department at TecnoCampus MotorSports**, where I oversee all development for our Formula Student electric race car.
+🚀 I'm a **Software Engineer student** passionate about embedded systems, vehicle control software, and innovation in motorsport. Currently, I lead the **software department at TecnoCampus MotorSports**, where I oversee all development for our Formula Student electric race car.
 
 💻 My expertise includes:
 
