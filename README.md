@@ -3,9 +3,9 @@
 
 ---
 
-🚀 I'm a **Software Engineer student** passionate about embedded systems, vehicle control software, and innovation in motorsport. Currently, I lead the **software department at TecnoCampus MotorSports**, where I oversee all development for our Formula Student electric race car.
+I'm a **Software Engineer student** passionate about embedded systems, vehicle control software, and innovation in motorsport. Currently, I lead the **software department at TecnoCampus MotorSports**, where I oversee all development for our Formula Student electric race car.
 
-💻 My expertise includes:
+My expertise includes:
 
 - ⚙️ **Embedded Systems & ECU Firmware** (C/C++)
 - 🔌 **CAN Bus Communication & Telemetry Systems**
@@ -15,7 +15,7 @@
 
 ---
 
-### 🔧 Current Projects
+### Current Projects
 
 - 🏎️ **Formula Student Car Software Architecture** – Complete software stack for electric vehicle (ECU, telemetry, safety logic, CAN communication)
 - 🌐 **Real-Time Telemetry Platform** – Data acquisition, cloud storage, and live visualization dashboards
@@ -23,7 +23,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
@@ -36,7 +36,7 @@
 
 ---
 
-### 📫 How to reach me
+### How to reach me
 
 - ✉️ **Email**: janrubiomontes@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/jan-rubio-montes/)  
@@ -44,12 +44,12 @@
 
 ---
 
-### 🏁 About Me
+### About Me
 
 I combine my passion for motorsport and technology to design reliable, safe, and high-performance software systems for electric race cars. As Chief of Software, I focus on the intersection of **control engineering**, **embedded programming**, and **data-driven performance**.
 
 ---
 
-### ⚠️ Note
+### Note
 
 All projects and repositories in this profile are intended for **educational and research purposes** within Formula Student and university studies. Feel free to explore, learn, and collaborate — but avoid direct copying for academic submissions.
