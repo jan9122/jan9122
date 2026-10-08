@@ -1,55 +1,62 @@
-<h1 align="center">Hi there 👋, I'm Jan Rubio</h1>
-<h3 align="center">Software Engineer @ DXC Technology | Head of Software @ TecnoCampus MotorSports</h3>
+# Jan Rubio Montes
+
+**Software Engineer · QA Automation · Embedded Systems**
+
+I work on software quality and embedded vehicle systems, combining professional test automation experience with hands-on development and integration for a Formula Student electric vehicle.
+
+Based in **Mataró, Barcelona**.
+
+[Portfolio](https://jan9122.github.io/) · [LinkedIn](https://www.linkedin.com/in/jan-rubio-montes/) · [Email](mailto:janrubiomontes@gmail.com)
+
+## Current work
+
+### DXC Technology — Analyst II Software Engineer · QA Automation
+*January 2026 – present*
+
+- Design, maintain, and execute more than **300 automated test cases** for Android and iOS banking applications for Banco Sabadell.
+- Use **Java, Appium, Selenium, JUnit, and Maven** for functional, UAT, and regression testing.
+- Develop reusable Page Object components and troubleshoot locators, waits, and framework interactions.
+- Run test suites through **Jenkins**, track defects and evidence in **Jira and Confluence**, and work with remote physical devices.
+
+### TecnoCampus MotorSports — Custom VCU/ECU Development Lead
+*August 2026 – present · Formula Student EV*
+
+- Develop a custom vehicle control unit for an electric Formula Student car.
+- Work on **C/C++ embedded software**, vehicle control, safety logic, and hardware/software integration using **Teensy 4.1 and STM32**.
+- Integrate and debug **CAN communication** between the VCU/ECU, inverter, and vehicle subsystems.
+- Work on sensor acquisition, diagnostics, telemetry interfaces, and system validation.
+
+**Previously in the team:** Head of Software (August 2025 – August 2026) and Software Engineer (November 2023 – August 2025).
+
+## Technical skills
+
+| Area | Languages, tools, and practices |
+| --- | --- |
+| Programming | C, C++, Java, Python |
+| Test automation | Appium, Selenium, JUnit, Maven, Page Object |
+| Software quality | Functional testing, integration testing, regression, UAT, defect analysis, traceability |
+| Embedded systems | VCU/ECU, Teensy 4.1, STM32, sensor integration |
+| Communication & telemetry | CAN Bus, I2C, UART, MQTT |
+| Development workflow | Jenkins, CI/CD, Git, GitHub, Jira, Confluence |
+| Industrial systems | SCADA monitoring, alarm response, maintenance coordination |
+
+## Education & background
+
+- **Computer Engineering degree** — Universitat Oberta de Catalunya, in progress since 2025.
+- **Computer Engineering / Information Systems studies** — TecnoCampus, 2023–2025; continued at UOC.
+- **Higher vocational qualification in Industrial Automation and Robotics** — Miquel Biada, 2021–2023.
+- Earlier experience in industrial control room operations, maintenance, and IT support.
+
+**Languages:** Spanish and Catalan (native); English (B2–C1, used daily at work).
+
+## Contact
+
+For professional opportunities in software quality, embedded systems, and automotive integration:
+
+- **Email:** [janrubiomontes@gmail.com](mailto:janrubiomontes@gmail.com)
+- **LinkedIn:** [jan-rubio-montes](https://www.linkedin.com/in/jan-rubio-montes/)
+- **Portfolio:** [jan9122.github.io](https://jan9122.github.io/)
 
 ---
 
-I'm a **Software Engineer** focused on embedded systems, hardware-adjacent software, and test automation. Currently, I work as an Analyst II Software Engineer developing automated testing frameworks, while also leading the **software department at TecnoCampus MotorSports**, where I oversee all development for our Formula Student electric race car.
-
-My expertise includes:
-
-- ⚙️ **Embedded Systems & ECU Firmware** (Modern C/C++)
-- 🔌 **CAN Bus Communication & Telemetry Systems** (I2C, UART, Ethernet, TCP/IP)
-- 🖥️ **Python, Java, and C++ Development**
-- 🧩 **QA Automation, System Integration & Root-Cause Analysis**
-- 🧠 **Software Architecture & Technical Leadership**
-
----
-
-### Current Projects & Professional Work
-
-- 🏎️ **Formula Student Car Software Architecture** – Complete software stack for an electric vehicle (VCU, telemetry, CAN communication, sensor integration).
-- 🏦 **Automated Testing & QA Infrastructure** – Developing and maintaining robust test automation frameworks, ensuring traceability and executing system-level validation.
-- 🌐 **Real-Time Telemetry Platform** – Data acquisition, real-time monitoring, diagnostics, and live visualization dashboards.
-
----
-
-### Languages & Tools
-
-![C++](https://img.shields.io/badge/-Modern_C++-00599C?style=flat&logo=c%2B%2B)
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins)
-![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat&logo=stmicroelectronics)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-
----
-
-### How to reach me
-
-- ✉️ **Email**: janrubiomontes@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/jan-rubio-montes/)  
-- 🌐 [Portfolio](https://jan9122.github.io)
-
----
-
-### About Me
-
-I combine my passion for motorsport and technology to design reliable, safe, and high-performance software systems for electric race cars. As Chief of Software, I focus on the intersection of **control engineering**, **embedded programming**, and **data-driven performance verification**.
-
----
-
-### Note
-
-All personal and university projects in this profile are intended for **educational and research purposes**. Feel free to explore, learn, and collaborate — but avoid direct copying for academic submissions.
+Personal and university projects shared here are intended for learning and research. Please respect each repository's license and do not submit copied work as your own academic assignment.
